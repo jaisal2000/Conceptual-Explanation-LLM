@@ -44,7 +44,7 @@ This application is built with freely available tools and is deployed for public
 *   **Knowledge Graph:** `ConceptNet 5.7` via its public API.
 *   **UI & Deployment:** `Gradio` and `Hugging Face Spaces`.
 
-#### >> [Try the Live Demo Here](https://[your-hugging-face-space-url]) <<
+#### >> [Try the Live Demo Here](https://[huggingface.co/spaces/jaisal2000/Conceptual-LLM-Tutor]) <<
 
 ---
 
