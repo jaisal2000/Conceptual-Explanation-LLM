@@ -1,6 +1,6 @@
 # 🎓 GraLLM-Tutor: A Framework for Explainable AI Answers
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://[huggingface.co/spaces/jaisal2000/Conceptual-LLM-Tutor])
+![Sanpshot of the App](image.png)
 
 This project demonstrates a system that makes AI-generated answers more trustworthy and understandable by revealing the reasoning behind them.
 
